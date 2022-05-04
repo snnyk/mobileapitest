@@ -2,7 +2,7 @@
 Installation
 
 ```sh
-git clone https://github.com/snnyk/teknasyon.git .
+git clone https://github.com/snnyk/mobileapitest.git .
 ```
 ```sh
 composer install
