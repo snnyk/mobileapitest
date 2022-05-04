@@ -7,10 +7,14 @@ git clone https://github.com/snnyk/teknasyon.git .
 ```sh
 composer install
 ```
+Set your mysql and redis connection in .env file
+```sh
+php artisan migrate
+```
 ```sh
 php artisan serve
 ```
-Don't forget to set your mysql and redis connetion in .env file
+
 
 Subscription Check Command
 
